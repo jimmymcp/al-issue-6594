@@ -1,0 +1,26 @@
+{
+  "id": "dcf6029c-22ec-40ce-bd2f-a63cd56770fe",
+  "name": "TestInterfaceOverloads",
+  "publisher": "James Pearson",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://TestInterfaceOverloads.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
